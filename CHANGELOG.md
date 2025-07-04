@@ -9,3 +9,4 @@ feat: se agregan scripts de prueba mediano y largo plazo
 feat: se agregan scripts de memoria
 fix: se ajustan scripts de memoria
 feat: se agrega script de estabilidad general
+fix: se ajusta IO a 10s en Plani LYM IO
